@@ -1,5 +1,5 @@
-👋 Hi, I’m @GabrielHD55
+👋 Hi, I’m @Gabriel
 
 **Java Developer**
 
-**Discord: GabrielHD#2515**
+**Discord: Gab05#2515**

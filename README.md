@@ -1,5 +1,5 @@
 👋 Hi, I’m @Gabriel
 
-**Java Developer**
+**Developer**
 
-**Discord: MrGabe#0005**
+**Discord: mrgabe5**

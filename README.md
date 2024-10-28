@@ -9,9 +9,3 @@ I’m a passionate developer with experience in **Blockchain**, **Java**, **Pyth
 - **Frameworks**: React, Blockchain, React Native, Flutter, Node, Laravel
 - **Tools**: Git, Docker
 
-## 📫 How to Reach Me
-
-- **Email**: [aleveriv5@gmail.com](mailto:aleveriv5@gmail.com)
-- **Discord**: mrgabe5
-
-Thanks for visiting my GitHub profile! If you have any questions or would like to collaborate, feel free to reach out.

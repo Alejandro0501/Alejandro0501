@@ -9,5 +9,4 @@ I’m a passionate developer with experience in **Blockchain**, **Java**, **Pyth
 - **Frameworks**: React, Blockchain, React Native, Flutter, Node, Laravel
 - **Tools**: Git, Docker
 
-## Contact
-**Discord:** mrgabe5 (1003412787831259189)
+
